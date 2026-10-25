@@ -1,0 +1,106 @@
+BAVANI PULI - PERSONAL PORTFOLIO WEBSITE
+HTML & CSS Internship Project (EWB Courses)
+Submission deadline: 16 October 2026
+
+------------------------------------------------------------
+1. WHAT IS IN THIS FOLDER
+------------------------------------------------------------
+Bavani_Puli_HTML_CSS_Portfolio/
+  index.html        The website (all content and structure)
+  style.css         All styling (colours, layout, mobile design)
+  images/           Empty. Optional: put profile.jpg here
+  screenshots/      Put your two screenshots here:
+                      desktop.png
+                      mobile.png
+  INSTRUCTIONS.txt  This file
+
+Keep index.html and style.css in the SAME folder. The website will
+look unstyled if they are separated or renamed.
+
+The website uses only HTML5 and CSS3. There is no JavaScript.
+No images are needed, so there is no assets folder.
+
+------------------------------------------------------------
+2. HOW TO OPEN THE WEBSITE ON A COMPUTER
+------------------------------------------------------------
+1. Unzip the folder.
+2. Double-click index.html. It opens in Chrome or Edge.
+3. Click every menu link (Home, About, Skills, Projects,
+   Certifications, Contact) and check it jumps to the right section.
+
+------------------------------------------------------------
+3. HOW TO TEST ON AN ANDROID PHONE
+------------------------------------------------------------
+1. Copy the zip file to your phone (WhatsApp, Google Drive, email,
+   or a USB cable).
+2. Open the Files app, find the zip, tap it and choose Extract.
+3. Open the extracted folder and tap index.html.
+   Choose Chrome if Android asks which app to use.
+4. If it does not open in Chrome, type this in the Chrome address bar
+   (change the path to match where you extracted the folder):
+     file:///sdcard/Download/Bavani_Puli_HTML_CSS_Portfolio/index.html
+5. Check these things:
+   - All menu links jump to the correct section.
+   - The text is easy to read and nothing is cut off.
+   - There is no sideways scrolling, in portrait or landscape.
+   - The buttons are easy to tap.
+Note: some Android versions block local files in Chrome. If so, use
+the online preview below instead.
+
+------------------------------------------------------------
+4. HOW TO TAKE THE SCREENSHOTS
+------------------------------------------------------------
+Mobile screenshot:
+  Open the site on your phone and press Power + Volume Down together.
+  Move the picture to your computer and save it as screenshots/mobile.png
+
+Desktop screenshot:
+  Open index.html in Chrome on a computer.
+  On Windows press Windows + Shift + S, select the page, and save it as
+  screenshots/desktop.png
+
+------------------------------------------------------------
+5. HOW TO PUT THE WEBSITE ONLINE (OPTIONAL)
+------------------------------------------------------------
+Netlify Drop (easiest, free, no coding):
+  1. Go to app.netlify.com/drop
+  2. Drag the whole folder onto the page.
+  3. Netlify gives you a public link. Open it in a private browser tab
+     to check that it works without logging in.
+
+GitHub Pages (free):
+  1. Create a repository on github.com and upload index.html and style.css.
+  2. Settings > Pages > choose the main branch > Save.
+  3. Your link will be https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
+
+------------------------------------------------------------
+6. HOW TO EDIT YOUR CONTENT
+------------------------------------------------------------
+Open index.html in a text editor (VS Code, or Acode on Android).
+Change the text between the tags, then save and refresh the browser.
+Do not delete the < > symbols or the words in them.
+
+Optional profile photo: save it as images/profile.jpg and ask for the
+code to display it.
+
+------------------------------------------------------------
+7. SUBMISSION CHECKLIST
+------------------------------------------------------------
+[ ] index.html and style.css are in the folder
+[ ] Menu links all work
+[ ] Looks good on desktop and on a phone, with no sideways scrolling
+[ ] screenshots/desktop.png and screenshots/mobile.png added
+[ ] Spelling checked (names, dates, email)
+[ ] Folder zipped as Bavani_Puli_HTML_CSS_Portfolio.zip
+[ ] 3-5 sentence project description ready
+[ ] Optional hosted link tested
+[ ] Submitted before 16 October 2026 using the official form:
+    https://docs.google.com/forms/d/e/1FAIpQLSfLJkwxKh8nHF1u6hj803j_x3hg5DavCNK41N0Vto9ZEmLdoA/viewform
+
+Suggested project description (edit if you like):
+"This is my personal portfolio website built with HTML5 and CSS3. It has
+a navigation bar, a hero section, About Me with education and
+internships, a skills section, two project cards, a certifications
+section and a contact section. The layout uses Flexbox and CSS Grid,
+CSS variables for colours, hover and focus effects, and media queries so
+it works on desktop and mobile screens."
